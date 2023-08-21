@@ -16,8 +16,6 @@
 
 📝 I regulary write articles on [Medium Blogs](https://medium.com/@iamzahid)
 
-📫 You can reach me at **zahid.sokrio@gmail.com**
-
 
 ##### 👨‍💻 Some of the projects I have worked recently
 
