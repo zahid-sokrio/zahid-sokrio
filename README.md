@@ -19,17 +19,16 @@
 
 ##### 👨‍💻 Some of the projects I have worked recently
 
-- 📦 Terraform Templates for setting up Infrastructure over AWS - [Github](https://github.com/)
+- 📦 Terraform Templates for setting up Infrastructure over Proxmox and Cloud Infra -
 
-- 📦 Deployment of a static webpage using AWS s3 and CloudFront - [Github](https://github.com/)
+- 📦 Deployment of a static webpage using AWS s3 and CloudFront -
 
-- 📦 Setting up a jenkins pipeline for CI/CD of static website hosted on s3 - [Github](https://github.com/)
+- 📦 Setting up a jenkins pipeline for CI/CD of static website hosted on s3 -
 
-- 📦 CI of a python application using circleCI - [Github](https://github.com/)
+- 📦 CI of a python application using circleCI -
 
-- 📦 Containerizing a ML MicroService and running it over Kubernetes - [Github](https://github.com/)
+- 📦 Containerizing a ML MicroService and running it over Kubernetes -
 
-- 📦 A Capstone Project for setting up end to end devops pipeline prepared during accomplishing Udacity Cloud DevOps Nanodegree - [Github](https://github.com/Yatharth0045/capstone-udacity)   
 
 ##### 🧾 Certifications I have Accomplished
 
