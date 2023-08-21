@@ -10,22 +10,12 @@
   <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3/icons/stackoverflow.svg" alt="yatharth7" width="22px" />
 </a>
 
-
-![](https://komarev.com/ghpvc/?username=yatharth0045&style=flat-square&color=blue)
-
 🏢 I’m currently working in [Sokrio Technologies Ltd](https://www.sokrio.com/) as **DevOps Engineer**
-
-🌱 I’m currently working on **Setting up infra using Terraform over AWS & Azure **
-
-💡 Hashtag that describes me **`#DevOpsWizard`**
 
 📝 I regulary write articles on [Medium Blogs](https://medium.com/@iamzahid)
 
-💬 Ask me about **DevOps Tools and Practices**
-
 📫 You can reach me at **zahid.sokrio@gmail.com**
 
-⚡ Fun fact **We guys automate stuff**
 
 ##### 👨‍💻 Some of the projects I have worked recently
 
