@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Zahid Ahmed</h1>
-<h3 align="center">A professional DevOps Engineer 🚀</h3>
+<h3 align="center">A Professional DevOps Engineer 🚀</h3>
 
 <p align="center">
 <a href="https://linkedin.com/in/" target="blank">
@@ -14,7 +14,7 @@
 
 🏢 I’m currently working in [Sokrio Technologies Ltd](https://www.sokrio.com/) as **DevOps Engineer**
 
-📝 I regulary write articles on [Medium Blogs](https://medium.com/@iamzahid)
+📝 I regulary write articles on [DEV](https://dev.to/iamzahid)
 
 
 ##### 👨‍💻 Some of the projects I have worked recently
@@ -25,9 +25,11 @@
 
 - 📦 Setting up a jenkins pipeline for CI/CD of static website hosted on s3 -
 
-- 📦 CI of a python application using circleCI -
+- 📦 CI of a Laravel Application using Githubaction -
 
-- 📦 Containerizing a ML MicroService and running it over Kubernetes -
+- 📦 CI of a Python Application using CircleCI -
+
+- 📦 Containerizing a MicroService and running it over Kubernetes -
 
 
 ##### 🧾 Certifications I have Accomplished
