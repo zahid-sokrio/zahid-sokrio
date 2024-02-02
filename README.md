@@ -2,7 +2,7 @@
 
 ![](https://komarev.com/ghpvc/?username=yatharth0045&style=flat-square&color=blue)
 
-🧑🏻‍💻 I’m DevOps Engineer with 4+ experience, mostly focusing on the domains of DevOps, Platform Engineering, and Site Reliability Engineering.
+🧑🏻‍💻 I’m DevOps Engineer with 4+ experience, mostly focusing on the domains of DevOps, Platform Engineering & Site Reliability Engineering.
 
 🏢 I’m currently working in [Sokrio Technologies Ltd](https://www.sokrio.com/) as **DevOps Engineer**
 
