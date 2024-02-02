@@ -1,38 +1,12 @@
 <h1 align="center">Hi 👋, I'm Zahid Ahmed</h1>
-<h3 align="center">A Professional DevOps Engineer 🚀</h3>
-
 
 ![](https://komarev.com/ghpvc/?username=yatharth0045&style=flat-square&color=blue)
+
+🧑🏻‍💻 I’m DevOps Engineer with 4+ experience, mostly focusing on the domains of DevOps, Platform Engineering, and Site Reliability Engineering.
 
 🏢 I’m currently working in [Sokrio Technologies Ltd](https://www.sokrio.com/) as **DevOps Engineer**
 
 📝 I regulary write articles on [DEV](https://dev.to/iamzahid)
-
-
-##### 👨‍💻 Some of the projects I have worked recently
-
-- 📦 Terraform Templates for setting up Infrastructure over Proxmox and Cloud Infra -
-
-- 📦 Deployment of a static webpage using AWS s3 and CloudFront -
-
-- 📦 Setting up a jenkins pipeline for CI/CD of static website hosted on s3 -
-
-- 📦 CI of a Laravel Application using Githubaction -
-
-- 📦 CI of a Python Application using CircleCI -
-
-- 📦 Containerizing a MicroService and running it over Kubernetes -
-
-
-##### 🧾 Certifications I have Accomplished
-
-- 🎖🎖 DevOps Engineer
-
-- 🎖🎖 Linux System Administration
-
-- 🎖🎖 Various Certification of Docker and Kubernetes
-
-- 🎖🎖 AWS , Azure , GCP , Digitalocean 
 
 ## ⚡ Tech Stack
 ![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)
