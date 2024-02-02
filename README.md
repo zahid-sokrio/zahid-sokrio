@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Zahid Ahmed</h1>
+**_<h1 align="center">Hi 👋, I'm Zahid Ahmed</h1>_**
 
 ![](https://komarev.com/ghpvc/?username=yatharth0045&style=flat-square&color=blue)
 
@@ -6,7 +6,7 @@
 
 🏢 I’m currently working in [Sokrio Technologies Ltd](https://www.sokrio.com/) as **DevOps Engineer**
 
-📝 I regulary write articles on [DEV](https://dev.to/iamzahid)
+📝 I write articles on [DEV](https://dev.to/iamzahid)
 
 ## ⚡ Tech Stack
 ![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)
